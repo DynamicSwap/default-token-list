@@ -614,5 +614,13 @@
     "decimals": 6,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+  },
+  {
+    "name": "TEAsWAP.ART",
+    "address": "0x5f99ACF13CAff815DD9cB4A415c0fB34e9F4545b",
+    "symbol": "TSA",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://tokens.bscswap.com/images/0x5f99ACF13CAff815DD9cB4A415c0fB34e9F4545b.png"
   }
 ]
