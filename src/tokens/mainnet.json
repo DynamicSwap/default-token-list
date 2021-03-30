@@ -617,10 +617,10 @@
   },
   {
     "name": "TEAsWAP.ART",
-    "address": "0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b",
+    "address": "0x5f99ACF13CAff815DD9cB4A415c0fB34e9F4545b",
     "symbol": "TSA",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://tokens.bscswap.com/images/0x5f99acf13caff815dd9cb4a415c0fb34e9f4545b.png"
+    "logoURI": "https://tokens.bscswap.com/images/0x5f99ACF13CAff815DD9cB4A415c0fB34e9F4545b.png"
   }
 ]
