@@ -614,5 +614,13 @@
     "decimals": 6,
     "chainId": 56,
     "logoURI": "https://tokens.bscswap.com/images/0xA8c2B8eec3d368C0253ad3dae65a5F2BBB89c929.png"
+  },
+  {
+    "name": "Stithulf ERC Token",
+    "address": "0x9df9de5ed89adbbd9fa2c14691903a0de9048a87",
+    "symbol": "SULFERC",
+    "decimals": 4,
+    "chainId": 56,
+    "logoURI": "https://s2.tokeninsight.com/static/coins/img/content/imgUrl/SUF%20Logo.png"
   }
 ]
